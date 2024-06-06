@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nawrasama
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning computer science and technology in Uva Wellassa university of SriLanka
